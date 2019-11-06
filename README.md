@@ -3,7 +3,8 @@
 > update time:2019 年 11 月 6 日 16:56:36
 > 先来点实在的东西
 
-#### 微信真实可用接口(能在 jsbridge 中,找到的)
+#### 微信真实可用接口(能在 jsbridge 中,找到的) 
+> 可能不太对,比如 hideAllNonBaseMenuItem()方法,有效但是这里面没有
 
 ```
         // 以下是微信jsBridge 对外抛出的接口
