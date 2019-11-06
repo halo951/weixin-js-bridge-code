@@ -1,0 +1,17 @@
+{
+  "name": "weixin-js-bridge-code",
+  "version": "1.0.1",
+  "description": "微信js-sdk,JSBridge 源码分析(非恶意拆解,仅用来检查微信真实支持接口)",
+  "main": "test.js",
+  "author": "Halo",
+  "license": "MIT",
+  "keywords": [
+    "jweixin 代码分析",
+    "JsBridge 代码分析",
+    "微信网页",
+    "js-sdk 真实支持接口",
+    "小程序",
+    "web-view",
+    "小游戏"
+  ]
+}
